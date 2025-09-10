@@ -6,8 +6,8 @@
 -----
 ## **Nomes:**
 
-Giovanny Nepomuceno Leone Barbosa | RA: 2402464
-Guilherme Rauseo Luz | RA: 2402131
-Guilherme Ribeiro de Godoy Mendonça | RA: 2403880
-Marcela Conceição da Silva | RA: 2402932
+Giovanny Nepomuceno Leone Barbosa | RA: 2402464 <br>
+Guilherme Rauseo Luz | RA: 2402131 <br>
+Guilherme Ribeiro de Godoy Mendonça | RA: 2403880 <br>
+Marcela Conceição da Silva | RA: 2402932 <br>
 Filipe Decio Demarco | RA: 2301598
